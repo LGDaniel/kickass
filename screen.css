@@ -1,0 +1,105 @@
+body{
+  max-width:892px;
+}
+
+.logo{
+  display:inline-block;
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.top li{
+ width:100px;
+ display:inline-block;
+ font-weight:bolder;
+}
+
+.top{
+  float:right;
+}
+
+.navbar{
+  width:90%;
+  position:fixed;
+  background:white;
+}
+
+.bigimage{
+  width:800px;
+}
+
+.confetti{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.headline{
+  position:absolute;
+  top:100px;
+  left:130px;
+}
+
+p{
+  width:300px;
+}
+
+.people{
+  text-align: center;
+  margin-left: 320px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  font-size:25px;
+  font-weight: bold;
+
+}
+
+.dexter, .baretta{
+  display:inline-block;
+  position:relative;
+  font-style: italic;
+  font-size: 18px;
+  margin:10px;
+}
+
+.dexter{
+  margin-left: 200px;
+}
+
+.bottom{
+  width:892px;
+  background-color: rgb(54,60,60);
+   margin-top:100px;
+   position:relative;
+   left:50px;
+   height:300px;
+}
+
+.bottom ul{
+  display:inline-block;
+  vertical-align:top;
+  margin-top: 20px;
+  color:rgb(90,96,96);
+  width:150px;
+  padding:0;
+}
+
+.bottom, ul, li{
+  margin:10px;
+  text-align: left;
+  margin-right:0px;
+  padding-left: 0px;
+}
+
+.bottom li{
+  color:rgb(192,197,197);
+  margin-left:0;
+  margin-bottom:20px;
+}
+
+ul  {
+  list-style-type: none;
+}
+
+.product{
+  margin-left: 150px;
+}
